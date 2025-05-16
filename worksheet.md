@@ -4,7 +4,7 @@ After reading README.md complete this worksheet by editing this file and marking
 
 2) What does an arrow mean in a flowchart? a) a decision point b) a step in a process *c) it indicates what should happen next in the process
 
-3) In pair programming, who is on the hook to suggest what to do next? a) the person at the keyboard b) the person not at the keyboard  *c) depends on how the pair is set up :)
+3) In pair programming, who is on the hook to suggest what to do next? a) the person at the keyboard b) the person not at the keyboard  *c) depends on how the pair is set up but most likely the person not at the keyboard :)
 
 4) How would the binary value 10111 be represented in base 10? a) 4 b) 8 *c) 23 d) 56 e) 10111 f) 11101
 
